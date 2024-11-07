@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a researcher in psychology, focusing on judgment and decision making, and curiosity.
 <!--
 **guswad/guswad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
